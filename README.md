@@ -55,4 +55,4 @@ We will create interactive maps with R using U.S. Census data by tract level fro
 
 <br><br>
 
-Code, links and interacive maps are also avialable here: https://rpubs.com/grecia_white/shade_public_transit_austin
+Code, links and interacive maps are also available here: https://rpubs.com/grecia_white/shade_public_transit_austin
