@@ -1,9 +1,10 @@
 # Where is the shade and who has it?
 As climate change brings more frequent heat waves we need to take stock of our resources and ensure we are supporting vulnerable populations. “Austin is also seeing an increase in the number of 100-degree days. In the 30-year period between 1981 and 2010, the average number of 100-degree days was 18. From 1990 to 2019, the average was 28 days.” - KUT, NPR Station
 
+Here we will create 3 maps using U.S. Census, Capital Metro and City of Austin data to explore the topic of shade as it relates to public transit in the city of Austin, Texas.
+
 We will create interactive maps with R using U.S. Census data by tract level from the Annual American Survey to measure median income and ages of those 60 years and older who use public transportation to get to work in Austin, Texas. We also use Capital Metro data to map out the bus stops that have a shade structure and those without any shade structure. We also use City of Austin Tree Canopy Map to map percentages of tree canopy cover across neighborhoods in Austin. 
 
-This all helps us explore the topic of shade as it relates to public transit in the city of Austin, Texas.
 
 ## The three interactive maps we will build and the datasets we will use for each one
 <br>
